@@ -890,7 +890,6 @@ def main():
     global description
     global is_play_music
 
-    print("Author: GuYongtao, E-mail: guyongtao@qq.com, Time: 2018/04/21")
     #得分过渡
     hit_score_temp = hit_score
     #背景色
